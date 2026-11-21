@@ -7,7 +7,7 @@ Each day has its own folder containing a Python script with my answers to that d
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Progress](<https://img.shields.io/badge/Progress-Day%2010%20of%2030-orange>)
+![Progress](https://img.shields.io/badge/Progress-Day%2010%20of%2030-orange)
 
 ---
 
