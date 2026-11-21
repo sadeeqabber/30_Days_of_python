@@ -26,9 +26,9 @@ print(type(10))
 print(type(9.8))
 print(type(3.14))
 print(type(4 - 4j))
-print(type(['Asabeneh', 'Python', 'Finland']))
-print(type('Amina'))
-print(type('Bello'))
+print(type(['Muhammad', 'Python', 'Nigeria']))
+print(type('Muhammad'))
+print(type('Abubakar'))
 print(type('Nigeria'))
 
 # ---------------- Level 3 ----------------
@@ -42,7 +42,7 @@ is_learning = True
 skills = ['Python', 'Excel', 'SQL']
 coordinates = (2, 3)
 unique_numbers = {1, 2, 3}
-person = {'name': 'Amina', 'country': 'Nigeria'}
+person = {'name': 'Muhammad', 'country': 'Nigeria'}
 
 for value in [integer, decimal, complex_number, text, is_learning,
               skills, coordinates, unique_numbers, person]:

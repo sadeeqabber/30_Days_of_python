@@ -91,7 +91,7 @@ print('I am enjoying this challenge.\nI just wonder what is next.')
 
 # 34: tab escape sequence
 print('Name\tAge\tCountry\tCity')
-print('Asabeneh\t250\tFinland\tHelsinki')
+print('Muhammad\t250\tNigeria\tKano')
 
 # 35: string formatting (f-string)
 radius = 10

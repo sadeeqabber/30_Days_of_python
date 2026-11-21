@@ -19,7 +19,7 @@ print(numbers[len(numbers) // 2])
 print(numbers[-1])
 
 # 5: mixed data types: name, age, height, marital status, address
-mixed_data_types = ['Amina', 30, 1.65, 'single', 'Kano, Nigeria']
+mixed_data_types = ['Muhammad', 30, 1.65, 'single', 'Kano, Nigeria']
 print(mixed_data_types)
 
 # 6-7: it_companies
@@ -169,7 +169,7 @@ print(siblings)
 print(len(siblings))
 
 # 5: tuples cannot change, so make a new tuple with the parents added
-parents = ('Yusuf', 'Maryam')
+parents = ('Abubakar', 'Maryam')
 family_members = siblings + parents
 print(family_members)
 
